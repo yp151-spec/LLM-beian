@@ -1,3 +1,4 @@
-display_name: LLM Beian Writer
-short_description: Draft and review Chinese generative AI service filing materials.
-default_prompt: 帮我起草或审查大模型备案材料，并列出缺失信息和风险点。
+interface:
+  display_name: "LLM Beian Writer"
+  short_description: "Draft and review Chinese generative AI service filing materials."
+  default_prompt: "帮我起草或审查大模型备案材料，并列出缺失信息和风险点。"
